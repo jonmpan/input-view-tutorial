@@ -1,0 +1,22 @@
+input-view{
+  match:Feedback
+
+  message("What kind of tutorials would you like to see next? Any additional feedback?")
+
+  render{
+    form{
+      elements{
+        textarea{
+          id (feedback)
+          type (Feedback)
+          label (Feedback)
+          max-length (1000)
+        }
+      }
+      on-submit{
+        goal:Feedback
+        value:viv.core.FormElement(feedback)
+      }
+    }
+  }
+}

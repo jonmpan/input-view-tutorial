@@ -1,0 +1,27 @@
+input-view{
+  match:Email{
+    to-input:StartSurvey(action)
+  }
+
+  message("It's a pleasure to meet you, #{value(action.name)}. What is your email address?")
+
+  render{
+    form{
+      elements{
+        text-input{
+          id (email)
+          type (Email)
+          max-length (100)
+          label (Email Address)
+          pattern{
+            email
+          }
+        }
+      }
+      on-submit{
+        goal:Email
+        value:viv.core.FormElement(email)
+      }
+    }
+  }
+}

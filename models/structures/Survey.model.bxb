@@ -1,0 +1,27 @@
+structure (Survey) {
+	description (__DESCRIPTION__)
+	property (name) {
+		type (Name)
+		min (Required) max (One)
+	}
+	property (email) {
+		type (Email)
+		min (Required) max (One)
+	}
+	property (started) {
+		type (Started)
+		min (Required) max (One)
+	}
+	property (duration) {
+		type (Duration)
+		min (Required) max (One)
+	}
+	property (like) {
+		type (Like)
+		min (Required) max (One)
+	}
+	property (feedback) {
+		type (Feedback)
+		min (Required) max (One)
+	}
+}

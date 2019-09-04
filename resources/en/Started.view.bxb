@@ -1,0 +1,18 @@
+input-view {
+  match:Started
+
+  message("When did you start using Bixby?")
+
+  render{
+    date-picker{
+      initial-value (now().date)
+      restrictions {
+        min-allowed ("subtractDuration(now().date, 'P3650D')")
+        max-allowed ("subtractDuration(now().date, 'P0D')")
+      }
+      submit-button{
+				template (Submit)
+			}
+    }
+  }
+}

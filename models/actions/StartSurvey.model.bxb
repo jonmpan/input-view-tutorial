@@ -1,0 +1,31 @@
+action (StartSurvey) {
+  type (Calculation)
+  description (__DESCRIPTION__)
+  collect {
+    input (name) {
+      type (Name)
+      min (Required) max (One)
+    }
+    input (email) {
+      type (Email)
+      min (Required) max (One)
+    }
+    input (started) {
+      type (Started)
+      min (Required) max (One)
+    }
+    input (duration) {
+      type (Duration)
+      min (Required) max (One)
+    }
+    input (like) {
+      type (Like)
+      min (Required) max (One)
+    }
+    input (feedback) {
+      type (Feedback)
+      min (Required) max (One)
+    }
+  }
+  output (Survey)
+}

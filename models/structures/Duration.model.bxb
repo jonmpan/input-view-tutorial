@@ -1,0 +1,4 @@
+structure (Duration) {
+	description (__DESCRIPTION__)
+	role-of (viv.core.BaseDateInterval)
+}

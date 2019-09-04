@@ -1,0 +1,15 @@
+input-view{
+  match:Duration
+
+  message ("When are you planning to build something for Bixby?")
+
+  render{
+    calendar{
+      initial-value (now().date)
+      allow-range(true)
+      restrictions{
+        block-past-dates (true)
+      }
+    }
+  }
+}
