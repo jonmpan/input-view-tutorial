@@ -1,0 +1,10 @@
+train (t-f9hb5dssijo2cka3txjdg8vuc) {
+  utterance ("[g:Like:prompt] (no)[v:Like:false]")
+  plan (Y2BiEE6tSMwtyEnVKy4tKkut1PPJzE7FLsgIhAwMPEDMBMRANgA=)
+  last-modified (1567808108254)
+}
+train (t-fv77rvyz3i4c81zlg2n06z1ea) {
+  utterance ("[g:Name:prompt] (Bob Marley)[v:Name]")
+  plan (Y2BiEE6tSMwtyEnVKy4tKkut1PNLzE3FLsgIhAwMPEDMBMRANgA=)
+  last-modified (1567806700154)
+}

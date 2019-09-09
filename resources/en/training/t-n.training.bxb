@@ -1,0 +1,5 @@
+train (t-nm5sriemt81l5m2igt7ygi171) {
+  utterance ("[g:Started:prompt] (yesterday)[v:time.DateTimeExpression]")
+  plan (Y2BmEEutSMwtyEnVKy4tKkut1AsuSSwqSU1h4C3LLNMrycxN1XNJLEllkEbhhgAZrhUFRanFxZn5eQxMDIxAzAAkWcA0FAMA)
+  last-modified (1567808254240)
+}

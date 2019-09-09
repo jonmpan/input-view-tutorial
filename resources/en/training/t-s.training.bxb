@@ -1,0 +1,10 @@
+train (t-so8692v25vtk3uw563issrkj4) {
+  utterance ("[g:Like:prompt] (no)[v:Like:false]")
+  plan (Y2BiEE6tSMwtyEnVKy4tKkut1PPJzE7FLsgIhAwMPEDMBMRANgA=)
+  last-modified (1567807580485)
+}
+train (t-sxlc4p4l9kqjvo8q4aeaodqcf) {
+  utterance ("[g:Started:prompt] (the day before yesterday)[v:time.DateTimeExpression]")
+  plan (Y2BmEEutSMwtyEnVKy4tKkut1AsuSSwqSU1h4C3LLNMrycxN1XNJLEllkEbhhgAZrhUFRanFxZn5eQxMDIxAzAAkWcA0FAMA)
+  last-modified (1567808636293)
+}

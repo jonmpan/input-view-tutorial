@@ -1,0 +1,5 @@
+train (t-8mnkh1y2s8tg4kd7r7w5mrz85) {
+  utterance ("[g:Email:prompt] My email is (jpan@viv.ai)[v:Email]")
+  plan (Y2BiEEmtSMwtyEnVKy4tKkut1HPNTczMwSHKCIQMDDxAzATEQDYA)
+  last-modified (1567806873952)
+}

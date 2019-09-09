@@ -1,0 +1,5 @@
+train (t-pi084gghbq4144mvupnaix55w) {
+  utterance ("[g:Name:prompt] My name is (Jonathan Pan)[v:Name]")
+  plan (Y2BiEE6tSMwtyEnVKy4tKkut1PNLzE3FLsgIhAwMPEDMBMRANgA=)
+  last-modified (1567806733633)
+}

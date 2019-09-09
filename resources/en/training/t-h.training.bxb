@@ -1,0 +1,5 @@
+train (t-hc8nm038wan0adat7pk9dz0na) {
+  utterance ("[g:Started:prompt] (March 20th 2019)[v:time.DateTimeExpression]")
+  plan (Y2BmEEutSMwtyEnVKy4tKkut1AsuSSwqSU1h4C3LLNMrycxN1XNJLEllkEbhhgAZrhUFRanFxZn5eQxMDIxAzAAkWcA0FAMA)
+  last-modified (1567806904888)
+}

@@ -17,6 +17,11 @@ action (StartSurvey) {
     input (duration) {
       type (Duration)
       min (Required) max (One)
+      default-select{
+        with-rule{
+          select-first
+        }
+      }
     }
     input (like) {
       type (Like)

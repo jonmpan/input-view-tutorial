@@ -1,5 +1,15 @@
+train (t-93t8boy52wvbrfvv7ghjm07wo) {
+  utterance ("[g:Email:prompt] (jpan@viv.ai)[v:Email]")
+  plan (Y2BiEEmtSMwtyEnVKy4tKkut1HPNTczMwSHKCIQMDDxAzATEQDYA)
+  last-modified (1567806852897)
+}
 train (t-9dhc20dtilfapsey5ae6e49qt) {
   utterance ([g:StartSurvey] start)
-  plan (Y2BjEE2tSMwtyEnVKy4tKkut1AsGUwxS6MIliUUlUDlxNDnn/Nzc1LySYgYRNAnX3MTMHAZhNFGfzOxUDEG/xNxUBlYGRgYmBmYGFiCLAciGQQQA8wA=)
-  last-modified (1567543211106)
+  plan (Y+BgEE2tSMwtyEnVKy4tKkut1AsGUwxS6MIliUUlUDlxNDmX0qLEksz8PAYRNAnX3MTMHAzlbqmpKUmJydkMwmgSPpnZqRiCfom5qQxi2FyTmsLAzsDIwMTAzMDCwMrABuQxAPnIEBWARQA=)
+  last-modified (1567809889184)
+}
+train (t-9l6jvqxw71ommdo60ra57p3et) {
+  utterance ("[g:Duration:prompt] (From January 1st to February 28th)[v:time.DateInterval]")
+  plan (Y2BmEE+tSMwtyEnVKy4tKkut1HMpLUosyczPY5AsyyzTS84vStVzSixOdUksSfXMK0ktKkvMYRAFSZVk5qbqoQgzMTACMQOQZGFgBtJMEAwA)
+  last-modified (1567809891566)
 }

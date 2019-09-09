@@ -1,0 +1,6 @@
+train (t-e8mnzh18il5quu1c9otofaj5d) {
+  utterance ("[g:Like:prompt] (yes I do like this capsule)[v:Like:false]")
+  plan (Y2BiEE6tSMwtyEnVKy4tKkut1PPJzE7FLsgIhAwMPEDMBMRANgA=)
+  enabled (false)
+  last-modified (1568066815157)
+}

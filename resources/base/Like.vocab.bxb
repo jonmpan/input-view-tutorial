@@ -1,0 +1,17 @@
+vocab(Like) {
+  "true" {
+    "yes"
+    "yeah"
+    "yes I do like this capsule"
+    "I like this capsule"
+    "yes I like this capsule"
+    "sure"
+    "yep"
+    "yup"
+  }
+  "false" {
+    "no"
+    "nope"
+    "no this capsule sucks"
+  }
+}

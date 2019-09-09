@@ -1,0 +1,5 @@
+train (t-yqih5fik23j9r6c6059a3de7z) {
+  utterance ("[g:Feedback:prompt] (foo bar foo bar)[v:Feedback]")
+  plan (Y2BiEE+tSMwtyEnVKy4tKkut1HNLTU1JSkzOxi3BCIQMDDxAzATEQDYA)
+  last-modified (1567808590278)
+}
