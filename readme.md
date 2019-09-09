@@ -10,7 +10,7 @@ This tutorial capsule is designed to demonstrate how to use input-views. The tut
 
 https://youtu.be/ez3AJKIZ49g
 
-The `master` branch of this repository matches the code at the end of the video. In this tutorial, you'll be building the following input views.
+The `master` branch of this repository matches the code at the end of the video. In this tutorial, you'll be building 3 of the following input views. All 6 of these views are included in the code though.
 
 ![Screenshot-name](/assets/readme/name.png)
 ![Screenshot-email](/assets/readme/email.png)
