@@ -42,10 +42,3 @@ The `master` branch of this repository matches the code at the end of the video.
 
 - Have a feature request? Please suggest it in our [Support Community](https://support.bixbydevelopers.com/hc/en-us/community/topics/360000183273-Feature-Requests) to help us prioritize.
 - Have a technical question? Ask on [Stack Overflow](https://stackoverflow.com/questions/tagged/bixby) with tag “bixby”
-
-### Credit
-
-- Moxie's pictures from [@moxie.the.calico](https://www.instagram.com/moxie.the.calico/)
-- Pet icons from - www.freepik.com
-- Some animal photos from Pexels
-- Photo of cat by Alena Koval from Pexels
