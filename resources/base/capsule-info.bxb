@@ -1,0 +1,10 @@
+capsule-info {
+  display-name (Input View Tutorial)
+  dispatch-name (Input View Tutorial)
+  developer-name (JohnWithoutTheH)
+  icon-asset (/icons/icon.png)
+  description ("Just an input view tutorial.")
+  search-keywords{
+    keyword (Tutorial)
+  }
+}
